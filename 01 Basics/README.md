@@ -8,7 +8,7 @@ Declaring variables, calling functions, and all the things you need to know befo
 Learn the basic components of any Go program.
 
 - [01 Packages](https://github.com/Ryuchen/A-tour-of-Go/tree/main/01%20Basics/01%20Packages)
-- [02 Imports]
+- [02 Imports](https://github.com/Ryuchen/A-tour-of-Go/tree/main/01%20Basics/02%20Imports)
 
 ---
 
