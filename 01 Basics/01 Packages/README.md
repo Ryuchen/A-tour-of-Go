@@ -179,26 +179,6 @@ func main() {
 ```
 
 ## Reference: 
+- [how-to-properly-seed-random-number-generator](https://stackoverflow.com/questions/12321133/how-to-properly-seed-random-number-generator)
 - [what-is-the-randseed-function-in-golang](https://www.educative.io/answers/what-is-the-randseed-function-in-golang)
 - [golang-生成随机数-真随机数与伪随机数](https://xzhsh.ch/2021/09/golang-%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0-%E7%9C%9F%E9%9A%8F%E6%9C%BA%E6%95%B0%E4%B8%8E%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

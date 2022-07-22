@@ -4,8 +4,11 @@ The starting point, learn all the basics of the language.
 
 Declaring variables, calling functions, and all the things you need to know before moving to the next lessons.
 
-### [Packages](/01 Packages/README.md), variables, and functions.
+### Packages, variables, and functions.
 Learn the basic components of any Go program.
+
+- [01 Packages](https://github.com/Ryuchen/A-tour-of-Go/tree/main/01%20Basics/01%20Packages)
+- [02 Imports]
 
 ---
 
